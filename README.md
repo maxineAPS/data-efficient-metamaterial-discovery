@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 #### 3. Download Dataset
 
-Download the experimental dataset from [www.example.com/tpms-dataset.zip](https://www.example.com/tpms-dataset.zip) (Note: placeholder link). Unzip and place the contents in the `data/` directory.
+Download the experimental dataset from [[www.example.com/tpms-dataset.zip](https://www.example.com/tpms-dataset.zip)](https://github.com/maxineAPS/energy-dissipation-metamaterial-dataset.git). Unzip and place the contents in the `data/` directory.
 
 ## Usage
 
