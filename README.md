@@ -66,6 +66,7 @@ Run the visualization script to check the performance of your trained ensemble a
 
 ```bash
 python visualize_predictions.py
+```
 
 ## Citation
 
