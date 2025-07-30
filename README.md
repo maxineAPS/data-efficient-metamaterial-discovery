@@ -66,3 +66,21 @@ Run the visualization script to check the performance of your trained ensemble a
 
 ```bash
 python visualize_predictions.py
+
+## Citation
+
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@inproceedings{perroni-scharf2025data,
+  author = {Perroni-Scharf, Maxine and Ferguson, Zachary and Butruille, Thomas and Portela, Carlos M. and Konakovi\'{c} Lukovi\'{c}, Mina},
+  title = {Data-Efficient Discovery of Hyperelastic TPMS Metamaterials with Extreme Energy Dissipation},
+  year = {2025},
+  isbn = {979-8-4007-1540-2},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {[https://doi.org/10.1145/3721238.3730759](https://doi.org/10.1145/3721238.3730759)},
+  doi = {10.1145/3721238.3730759},
+  booktitle = {Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+  series = {SIGGRAPH '25}
+}
