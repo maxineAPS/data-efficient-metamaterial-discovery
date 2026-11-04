@@ -85,3 +85,7 @@ If you use this dataset in your research, please cite our paper:
   booktitle = {Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
   series = {SIGGRAPH '25}
 }
+
+## License
+
+MIT (see [LICENSE](LICENSE)).
